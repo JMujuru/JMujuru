@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend developer from the UK</h3> 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmujuru&label=Profile%20views&color=0e75b6&style=flat" alt="jmujuru" /> </p>
-
 - 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
 
 - 💬 Ask me about **HTML, CSS and JS**
