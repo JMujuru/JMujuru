@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from the UK</h3> 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
+- 🌱 I’m currently learning **React, Node.js**
 
 - 💬 Ask me about **HTML, CSS and JS**
 
